@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trevino Lewis | Systems Engineering</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Trevino Lewis</h1>
+    <p>Systems Engineering Graduate Student | Aerospace & Quality Focus</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am a Systems Engineering graduate student at Embry-Riddle Aeronautical University 
+        with a background in Physics and operational leadership. My experience has developed 
+        a strong foundation in process discipline, precision, and quality assurance.
+    </p>
+    <p>
+        I am passionate about aerospace systems, safety, and ensuring compliance with strict 
+        engineering standards. My goal is to contribute to high-reliability environments where 
+        quality and attention to detail are critical.
+    </p>
+</section>
+
+<section>
+    <h2>Projects</h2>
+
+    <h3>Modular Unmanned Aircraft System (UAS)</h3>
+    <p>
+        Designed a modular UAS system focused on adaptability and regulatory compliance. 
+        Developed system requirements, architecture, and verification strategies.
+    </p>
+
+    <h3>Operational Quality & Inspection (Enterprise)</h3>
+    <p>
+        Led vehicle inspection processes ensuring safety and compliance. Identified defects, 
+        enforced standards, and improved process consistency under high-pressure conditions.
+    </p>
+
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Systems Engineering (SEMP, Requirements, Verification)</li>
+        <li>Quality Assurance & Inspection</li>
+        <li>Process Discipline & Compliance</li>
+        <li>Problem Solving & Leadership</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: your.email@example.com</p>
+    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+</section>
+
+</body>
+</html>
